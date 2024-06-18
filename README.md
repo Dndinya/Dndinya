@@ -51,7 +51,7 @@ I hold a BSC in Computer Science
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-
+![Derrick Ndinya's github stats](https://github-readme-stats.vercel.app/api?username=Dndinya&show_icons=true&theme=dracula) 
 
 <!---
 Dndinya/Dndinya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
